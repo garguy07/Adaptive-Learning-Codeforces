@@ -1,4 +1,4 @@
-# Google Girl Hackathon
+# Adaptive Learning For Codeforces - Google Girl Hackathon
 
 ### The directory structure is as follows:
 
